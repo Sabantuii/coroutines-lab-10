@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ЛР 10.2 Корутины и Flow
 
 ## Часть 1: Корутины
@@ -20,3 +21,6 @@
 ## Часть 5: Обработка ошибки
 
 ![Error](screenshots/error_handling.png)
+=======
+# coroutines-lab-10
+>>>>>>> bb6866414ef45a246c38900a1fc6f6bc99531342
